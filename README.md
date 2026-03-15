@@ -27,3 +27,11 @@ This project uses APIs to track flight prices and send notifications when a bett
 ---
 
 ## 📂 Project Structure
+flight-deals-finder
+│
+├── main.py
+├── flight_search.py
+├── data_manager.py
+├── notification_manager.py
+├── flight_data.py
+└── config.py
